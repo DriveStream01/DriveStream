@@ -8,6 +8,5 @@
 - Yayın sırasında sürüş modu (kullanıcı sürüş halindeyken minimum dikkat dağılımı)
 - Çoklu dil desteği (10+ dil)
 - Kullanıcı dostu arayüz
-- Açık kaynaklı
 
-https://github.com/kullaniciadi/DriveStream.git
+git clone https://github.com/kullaniciadi/DriveStream.git
