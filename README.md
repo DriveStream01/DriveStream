@@ -9,4 +9,4 @@
 - Çoklu dil desteği (10+ dil)
 - Kullanıcı dostu arayüz
 
- https://github.com/kullaniciadi/DriveStream.git
+ https://github.com/DriveStream01/DriveStream.git
